@@ -16,4 +16,4 @@ Add the ability for administrators to affect variable product pricing by attribu
 
 ## Credits
 
-Built by the fine people at Peapod Studios (http://peapod.ca).  Sponsored by The Fairtrade Jewllery Company (http://ftjco.com).
+Built by the fine people at Peapod Studios (http://peapod.ca).  Sponsored by The Fairtrade Jewellery Company (http://ftjco.com).
