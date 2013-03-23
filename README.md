@@ -2,6 +2,11 @@
 
 Add the ability for administrators to affect variable product pricing by attributes.
 
+## Installation
+
+* Woocommerce 1.6.x users should apply the patch to woocomerce found in woocommerce_patches/1690_add_action_product_variation_linked.patch. This patch made it into Woocommerce 2.0.x (see https://github.com/woothemes/woocommerce/issues/1690)
+* Enable the plugin in the usual way
+
 ## Usage
 
 * Enable the plugin in the usual way.
