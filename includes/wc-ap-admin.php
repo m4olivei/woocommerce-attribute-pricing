@@ -475,7 +475,7 @@ function wc_ap_product_variation_attributes_added($variation_id) {
     }
   }
 }
-add_action('product_variation_attributes_added', 'wc_ap_product_variation_attributes_added');
+add_action('product_variation_linked', 'wc_ap_product_variation_attributes_added');
 
 /***********************************************************************************************************************
  * Post meta box for a base price
